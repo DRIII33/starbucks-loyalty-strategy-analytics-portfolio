@@ -1,0 +1,14 @@
+{
+  "customers": 2500,
+  "stores": 45,
+  "products": 18,
+  "transactions": 203254,
+  "completed_transactions": 201254,
+  "assignments": 2500,
+  "redemptions": 3348,
+  "unique_customer_keys": true,
+  "unique_transaction_keys": true,
+  "no_orphan_customer_ids": true,
+  "python_pipeline": "PASS",
+  "pytest": "PASS"
+}
